@@ -1,6 +1,8 @@
 # Nonprofit-Funding-Analysis
 https://docs.google.com/presentation/d/1ajvXkPUf5WjWF5EspilK3NfiV2ffAhza/edit?usp=sharing&ouid=112938532891179938863&rtpof=true&sd=true
+
 CLICK THE LINK ABOVE TO VIEW THE PRESENTATION
+
 This project provides an in-depth analysis of funding trends and distribution among nonprofit organizations across the United States. The dataset includes information from over 200 organizations, covering a total funding flow of more than $130 million. Key focus areas include mission type, geographic distribution, and funding efficiency.
 
 Tools Used:
